@@ -1,7 +1,7 @@
 ---
 title: "GSS challange"
 author: "Brandon Reyes!"
-date: "Fall 2020"
+date: "October 14,2020"
 output: html_document
 ---
 
